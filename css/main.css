@@ -1,0 +1,89 @@
+/* Fayad Berbash, 8945027*/
+body{
+    font  : normal normal normal 14px/1.5 Arial, Helvetica, sans-serif;
+    width : 100%;
+    max-width: 1200px;
+    margin: auto;
+    background-color: hsl(0, 82%, 79%);
+    border-width: 30px;
+    border-radius: 50px;
+    border-color: black;
+ }
+ 
+ header{
+    font-size: large;
+    background-color: hsl(300, 46%, 95%);
+    border-radius: 25px 25px;
+    text-align: left;
+    padding: 10px 10px 10px 10px;
+    font-variant: small-caps;
+    border-bottom-left-radius: 25px;
+    border-bottom: 40px;
+ }
+ h1{
+     color: rgb(186, 245, 162);
+     font-size: large;
+ }
+ h2{
+     color: rgb(20, 19, 19);
+     font-size: 2em;
+ }
+ figcaption{
+     float: left;
+     font-weight: bold;
+     font-variant: small-caps;
+ }
+ figcaption{
+     float: right;
+     font-weight: bold;
+     font-variant: small-caps;
+ }
+ main{
+     float: left;
+     height: 60%;
+     width: 45%;
+ }
+ .mainimg{
+     border: 7px solid rgb(23, 23, 23);
+ }
+ q{
+     font-family: cursive;
+     font-style: italic;
+ }
+ aside{
+    float:left;
+    width: 45%;
+    height: 60%;
+ }
+ .structural{
+ border: 3px solid hsl(0, 82%, 79%);
+ }
+ 
+ ul li{
+     list-style: none;
+     line-height: 1.5em;
+ }
+ 
+ ul a{
+     text-decoration: none;
+ }
+ 
+ a:hover{
+     color:darkgrey; 
+ }
+ 
+ 
+ footer{
+     border-radius: 50px 50px;
+     clear: both;
+ }
+ 
+
+ footer p{
+     font-size: 1em;
+     color:rgb(20, 20, 20);
+     background-color:hsl(0, 37%, 91%);
+     padding:10px 10px 10px 10px;
+     text-align: left;
+     
+ }
